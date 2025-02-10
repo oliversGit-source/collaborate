@@ -1,1 +1,2 @@
 My capstone project is to investigate a financial dataset to predict what factors influence loan approval or rejection. (Oliver Butterworth-Bakhshi)
+Great idea ! My capstone investigates credit card default and provide a predictive tool to satisfy new european regulatory requirements. (Emmanuel Peccatte)
