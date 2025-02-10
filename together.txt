@@ -1,0 +1,1 @@
+My capstone project is to investigate a financial dataset to predict what factors influence loan approval or rejection. (Oliver Butterworth-Bakhshi)
